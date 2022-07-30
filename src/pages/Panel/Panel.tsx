@@ -1,10 +1,11 @@
-import React from 'react';
 import './Panel.css';
+
+import React from 'react';
 
 const Panel: React.FC = () => {
   return (
     <div className="container">
-      <h1>Dev Tools Panel</h1>
+      <h6>blu</h6>
     </div>
   );
 };

@@ -1,12 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "4.3.5",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
-  },
+  "name": "blu",
+  "version": "1.0.0",
+  "description": "blu-devtools",
   "scripts": {
     "build": "node utils/build.js",
     "start": "node utils/webserver.js",
